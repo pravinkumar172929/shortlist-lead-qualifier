@@ -1,0 +1,695 @@
+{
+  "generatedAt": "2026-10-10T00:00:00.000Z",
+  "sites": {
+    "ridgewayhvac-demo.com": {
+      "domain": "ridgewayhvac-demo.com",
+      "https": true,
+      "finalUrl": "https://ridgewayhvac-demo.com/",
+      "title": "Ridgeway Heating & Air | HVAC Repair in Columbus",
+      "description": "Family-owned HVAC contractor serving Columbus since 1987.",
+      "tech": [
+        "WordPress"
+      ],
+      "copyrightYear": 2019,
+      "socials": {
+        "linkedin": "https://www.linkedin.com/company/ridgeway-hvac-demo",
+        "facebook": "https://www.facebook.com/ridgewayhvacdemo"
+      },
+      "emailsFound": [
+        "service@ridgewayhvac-demo.com"
+      ],
+      "phonesFound": [
+        "(614) 555-0182"
+      ],
+      "hasCareersPage": true,
+      "hasEcommerce": false,
+      "hasBlog": false,
+      "hasChatWidget": false,
+      "hasAnalytics": false,
+      "fetchedAt": "2026-10-10T00:00:00.000Z",
+      "robotsBlocked": false,
+      "error": null,
+      "reachable": true
+    },
+    "cobaltprecision-demo.com": {
+      "domain": "cobaltprecision-demo.com",
+      "https": true,
+      "finalUrl": "https://cobaltprecision-demo.com/",
+      "title": "Cobalt Precision Machining — CNC & Contract Manufacturing",
+      "description": "ISO 9001 CNC machining for aerospace and medical OEMs.",
+      "tech": [
+        "WordPress",
+        "Google Analytics"
+      ],
+      "copyrightYear": 2021,
+      "socials": {
+        "linkedin": "https://www.linkedin.com/company/cobalt-precision-demo"
+      },
+      "emailsFound": [],
+      "phonesFound": [
+        "(937) 555-0144"
+      ],
+      "hasCareersPage": true,
+      "hasEcommerce": false,
+      "hasBlog": false,
+      "hasChatWidget": false,
+      "hasAnalytics": true,
+      "fetchedAt": "2026-10-10T00:00:00.000Z",
+      "robotsBlocked": false,
+      "error": null,
+      "reachable": true
+    },
+    "harborpointlogistics-demo.com": {
+      "domain": "harborpointlogistics-demo.com",
+      "https": true,
+      "finalUrl": "https://harborpointlogistics-demo.com/",
+      "title": "Harbor Point Logistics | Port Drayage & Warehousing",
+      "description": "Drayage, warehousing and last-mile logistics out of the Port of Savannah.",
+      "tech": [
+        "HubSpot",
+        "Google Analytics"
+      ],
+      "copyrightYear": 2024,
+      "socials": {
+        "linkedin": "https://www.linkedin.com/company/harbor-point-logistics-demo"
+      },
+      "emailsFound": [],
+      "phonesFound": [],
+      "hasCareersPage": true,
+      "hasEcommerce": false,
+      "hasBlog": true,
+      "hasChatWidget": false,
+      "hasAnalytics": true,
+      "fetchedAt": "2026-10-10T00:00:00.000Z",
+      "robotsBlocked": false,
+      "error": null,
+      "reachable": true
+    },
+    "greenfieldlandscape-demo.com": {
+      "domain": "greenfieldlandscape-demo.com",
+      "https": true,
+      "finalUrl": "https://greenfieldlandscape-demo.com/",
+      "title": "Greenfield Landscape Co. – Raleigh Landscaping",
+      "description": "Commercial and residential landscaping in the Triangle.",
+      "tech": [
+        "Wix"
+      ],
+      "copyrightYear": 2016,
+      "socials": {
+        "facebook": "https://www.facebook.com/greenfieldlandscapedemo"
+      },
+      "emailsFound": [],
+      "phonesFound": [
+        "(919) 555-0110"
+      ],
+      "hasCareersPage": false,
+      "hasEcommerce": false,
+      "hasBlog": false,
+      "hasChatWidget": false,
+      "hasAnalytics": false,
+      "fetchedAt": "2026-10-10T00:00:00.000Z",
+      "robotsBlocked": false,
+      "error": null,
+      "reachable": true
+    },
+    "summitdental-demo.com": {
+      "domain": "summitdental-demo.com",
+      "https": true,
+      "finalUrl": "https://summitdental-demo.com/",
+      "title": "Summit Family Dental | Boise Dentist",
+      "description": "Gentle family dentistry in Boise.",
+      "tech": [
+        "WordPress",
+        "Google Analytics"
+      ],
+      "copyrightYear": 2023,
+      "socials": {
+        "instagram": "https://www.instagram.com/summitdentaldemo"
+      },
+      "emailsFound": [],
+      "phonesFound": [],
+      "hasCareersPage": false,
+      "hasEcommerce": false,
+      "hasBlog": true,
+      "hasChatWidget": false,
+      "hasAnalytics": true,
+      "fetchedAt": "2026-10-10T00:00:00.000Z",
+      "robotsBlocked": false,
+      "error": null,
+      "reachable": true
+    },
+    "northlineplumbing-demo.com": {
+      "domain": "northlineplumbing-demo.com",
+      "https": false,
+      "finalUrl": "http://northlineplumbing-demo.com/",
+      "title": "Northline Plumbing - Tulsa Plumbers",
+      "description": "24/7 residential and commercial plumbing in Tulsa.",
+      "tech": [],
+      "copyrightYear": 2014,
+      "socials": {},
+      "emailsFound": [],
+      "phonesFound": [
+        "918-555-0130"
+      ],
+      "hasCareersPage": false,
+      "hasEcommerce": false,
+      "hasBlog": false,
+      "hasChatWidget": false,
+      "hasAnalytics": false,
+      "fetchedAt": "2026-10-10T00:00:00.000Z",
+      "robotsBlocked": false,
+      "error": null,
+      "reachable": true
+    },
+    "brightpathcpa-demo.com": {
+      "domain": "brightpathcpa-demo.com",
+      "https": true,
+      "finalUrl": "https://brightpathcpa-demo.com/",
+      "title": "Brightpath Accounting | CPA Firm in Madison",
+      "description": "Tax, audit and advisory for owner-led businesses.",
+      "tech": [
+        "WordPress"
+      ],
+      "copyrightYear": 2020,
+      "socials": {
+        "linkedin": "https://www.linkedin.com/company/brightpath-cpa-demo"
+      },
+      "emailsFound": [],
+      "phonesFound": [],
+      "hasCareersPage": false,
+      "hasEcommerce": false,
+      "hasBlog": false,
+      "hasChatWidget": false,
+      "hasAnalytics": false,
+      "fetchedAt": "2026-10-10T00:00:00.000Z",
+      "robotsBlocked": false,
+      "error": null,
+      "reachable": true
+    },
+    "ironcladbuilds-demo.com": {
+      "domain": "ironcladbuilds-demo.com",
+      "https": true,
+      "finalUrl": "https://ironcladbuilds-demo.com/",
+      "title": "Ironclad Construction | Commercial General Contractor",
+      "description": "Design-build commercial construction across Idaho.",
+      "tech": [
+        "HubSpot",
+        "Google Analytics"
+      ],
+      "copyrightYear": 2025,
+      "socials": {
+        "linkedin": "https://www.linkedin.com/company/ironclad-builds-demo"
+      },
+      "emailsFound": [],
+      "phonesFound": [],
+      "hasCareersPage": true,
+      "hasEcommerce": false,
+      "hasBlog": true,
+      "hasChatWidget": false,
+      "hasAnalytics": true,
+      "fetchedAt": "2026-10-10T00:00:00.000Z",
+      "robotsBlocked": false,
+      "error": null,
+      "reachable": true
+    },
+    "velocitycloud-demo.io": {
+      "domain": "velocitycloud-demo.io",
+      "https": true,
+      "finalUrl": "https://velocitycloud-demo.io/",
+      "title": "Velocity Cloud Labs — The AI platform for revenue teams",
+      "description": "Series C SaaS for revenue operations.",
+      "tech": [
+        "HubSpot",
+        "Google Analytics",
+        "Intercom",
+        "React"
+      ],
+      "copyrightYear": 2026,
+      "socials": {
+        "linkedin": "https://www.linkedin.com/company/velocity-cloud-demo"
+      },
+      "emailsFound": [],
+      "phonesFound": [],
+      "hasCareersPage": true,
+      "hasEcommerce": false,
+      "hasBlog": true,
+      "hasChatWidget": true,
+      "hasAnalytics": true,
+      "fetchedAt": "2026-10-10T00:00:00.000Z",
+      "robotsBlocked": false,
+      "error": null,
+      "reachable": true
+    },
+    "keystoneins-demo.com": {
+      "domain": "keystoneins-demo.com",
+      "https": false,
+      "finalUrl": null,
+      "title": "",
+      "description": "",
+      "tech": [],
+      "copyrightYear": null,
+      "socials": {},
+      "emailsFound": [],
+      "phonesFound": [],
+      "hasCareersPage": false,
+      "hasEcommerce": false,
+      "hasBlog": false,
+      "hasChatWidget": false,
+      "hasAnalytics": false,
+      "fetchedAt": "2026-10-10T00:00:00.000Z",
+      "robotsBlocked": true,
+      "error": "Site asks bots not to read its homepage",
+      "reachable": false
+    },
+    "pioneersupply-demo.com": {
+      "domain": "pioneersupply-demo.com",
+      "https": true,
+      "finalUrl": "https://pioneersupply-demo.com/",
+      "title": "Pioneer Supply & Distribution | Industrial MRO Supplies",
+      "description": "Industrial MRO distribution across the Plains since 1972.",
+      "tech": [
+        "WordPress"
+      ],
+      "copyrightYear": 2018,
+      "socials": {
+        "linkedin": "https://www.linkedin.com/company/pioneer-supply-demo"
+      },
+      "emailsFound": [],
+      "phonesFound": [],
+      "hasCareersPage": false,
+      "hasEcommerce": true,
+      "hasBlog": false,
+      "hasChatWidget": false,
+      "hasAnalytics": false,
+      "fetchedAt": "2026-10-10T00:00:00.000Z",
+      "robotsBlocked": false,
+      "error": null,
+      "reachable": true
+    },
+    "lakesideauto-demo.com": {
+      "domain": "lakesideauto-demo.com",
+      "https": true,
+      "finalUrl": "https://lakesideauto-demo.com/",
+      "title": "Lakeside Auto Repair",
+      "description": "Honest auto repair in Duluth.",
+      "tech": [
+        "Wix"
+      ],
+      "copyrightYear": 2015,
+      "socials": {},
+      "emailsFound": [],
+      "phonesFound": [],
+      "hasCareersPage": false,
+      "hasEcommerce": false,
+      "hasBlog": false,
+      "hasChatWidget": false,
+      "hasAnalytics": false,
+      "fetchedAt": "2026-10-10T00:00:00.000Z",
+      "robotsBlocked": false,
+      "error": null,
+      "reachable": true
+    },
+    "maplestreetbakery-demo.com": {
+      "domain": "maplestreetbakery-demo.com",
+      "https": true,
+      "finalUrl": "https://maplestreetbakery-demo.com/",
+      "title": "Maple Street Bakery",
+      "description": "Sourdough, pastries and coffee in downtown Burlington.",
+      "tech": [
+        "Shopify",
+        "Google Analytics"
+      ],
+      "copyrightYear": 2025,
+      "socials": {
+        "instagram": "https://www.instagram.com/maplestreetbakerydemo"
+      },
+      "emailsFound": [],
+      "phonesFound": [],
+      "hasCareersPage": false,
+      "hasEcommerce": true,
+      "hasBlog": false,
+      "hasChatWidget": false,
+      "hasAnalytics": true,
+      "fetchedAt": "2026-10-10T00:00:00.000Z",
+      "robotsBlocked": false,
+      "error": null,
+      "reachable": true
+    },
+    "atlasfleet-demo.com": {
+      "domain": "atlasfleet-demo.com",
+      "https": false,
+      "finalUrl": null,
+      "title": "",
+      "description": "",
+      "tech": [],
+      "copyrightYear": null,
+      "socials": {},
+      "emailsFound": [],
+      "phonesFound": [],
+      "hasCareersPage": false,
+      "hasEcommerce": false,
+      "hasBlog": false,
+      "hasChatWidget": false,
+      "hasAnalytics": false,
+      "fetchedAt": "2026-10-10T00:00:00.000Z",
+      "robotsBlocked": false,
+      "error": "Website did not respond",
+      "reachable": false
+    },
+    "crescentelectric-demo.com": {
+      "domain": "crescentelectric-demo.com",
+      "https": true,
+      "finalUrl": "https://crescentelectric-demo.com/",
+      "title": "Crescent Electrical Contractors | Mobile, AL",
+      "description": "Commercial and industrial electrical construction.",
+      "tech": [
+        "WordPress"
+      ],
+      "copyrightYear": 2017,
+      "socials": {
+        "facebook": "https://www.facebook.com/crescentelectricdemo"
+      },
+      "emailsFound": [],
+      "phonesFound": [
+        "(251) 555-0109"
+      ],
+      "hasCareersPage": true,
+      "hasEcommerce": false,
+      "hasBlog": false,
+      "hasChatWidget": false,
+      "hasAnalytics": false,
+      "fetchedAt": "2026-10-10T00:00:00.000Z",
+      "robotsBlocked": false,
+      "error": null,
+      "reachable": true
+    },
+    "evergreendentalstudio-demo.com": {
+      "domain": "evergreendentalstudio-demo.com",
+      "https": true,
+      "finalUrl": "https://evergreendentalstudio-demo.com/",
+      "title": "Evergreen Dental Studio",
+      "description": "Cosmetic and family dentistry in Spokane.",
+      "tech": [
+        "WordPress",
+        "Google Analytics"
+      ],
+      "copyrightYear": 2022,
+      "socials": {},
+      "emailsFound": [],
+      "phonesFound": [],
+      "hasCareersPage": false,
+      "hasEcommerce": false,
+      "hasBlog": true,
+      "hasChatWidget": false,
+      "hasAnalytics": true,
+      "fetchedAt": "2026-10-10T00:00:00.000Z",
+      "robotsBlocked": false,
+      "error": null,
+      "reachable": true
+    },
+    "tridentmetal-demo.com": {
+      "domain": "tridentmetal-demo.com",
+      "https": false,
+      "finalUrl": "http://tridentmetal-demo.com/",
+      "title": "Trident Metal Works | Custom Fabrication & Welding",
+      "description": "Custom metal fabrication and manufacturing for industrial clients.",
+      "tech": [],
+      "copyrightYear": 2013,
+      "socials": {
+        "linkedin": "https://www.linkedin.com/company/trident-metal-demo"
+      },
+      "emailsFound": [],
+      "phonesFound": [
+        "(814) 555-0141"
+      ],
+      "hasCareersPage": false,
+      "hasEcommerce": false,
+      "hasBlog": false,
+      "hasChatWidget": false,
+      "hasAnalytics": false,
+      "fetchedAt": "2026-10-10T00:00:00.000Z",
+      "robotsBlocked": false,
+      "error": null,
+      "reachable": true
+    },
+    "bluewaterpools-demo.com": {
+      "domain": "bluewaterpools-demo.com",
+      "https": true,
+      "finalUrl": "https://bluewaterpools-demo.com/",
+      "title": "Bluewater Pool Service | Tampa Bay",
+      "description": "Weekly pool cleaning and repair.",
+      "tech": [
+        "Wix",
+        "Google Analytics"
+      ],
+      "copyrightYear": 2024,
+      "socials": {
+        "facebook": "https://www.facebook.com/bluewaterpoolsdemo"
+      },
+      "emailsFound": [],
+      "phonesFound": [],
+      "hasCareersPage": false,
+      "hasEcommerce": false,
+      "hasBlog": false,
+      "hasChatWidget": false,
+      "hasAnalytics": true,
+      "fetchedAt": "2026-10-10T00:00:00.000Z",
+      "robotsBlocked": false,
+      "error": null,
+      "reachable": true
+    },
+    "summitridgehvac-demo.com": {
+      "domain": "summitridgehvac-demo.com",
+      "https": true,
+      "finalUrl": "https://summitridgehvac-demo.com/",
+      "title": "Summit Ridge HVAC | Heating & Cooling",
+      "description": "Furnace and AC installs for homes and light commercial.",
+      "tech": [
+        "WordPress"
+      ],
+      "copyrightYear": 2018,
+      "socials": {
+        "linkedin": "https://www.linkedin.com/company/summit-ridge-hvac-demo"
+      },
+      "emailsFound": [
+        "hello@summitridgehvac-demo.com"
+      ],
+      "phonesFound": [
+        "(720) 555-0190"
+      ],
+      "hasCareersPage": false,
+      "hasEcommerce": false,
+      "hasBlog": false,
+      "hasChatWidget": false,
+      "hasAnalytics": false,
+      "fetchedAt": "2026-10-10T00:00:00.000Z",
+      "robotsBlocked": false,
+      "error": null,
+      "reachable": true
+    },
+    "copperlinehvac-demo.com": {
+      "domain": "copperlinehvac-demo.com",
+      "https": true,
+      "finalUrl": "https://copperlinehvac-demo.com/",
+      "title": "Copperline HVAC Solutions | Commercial HVAC Denver",
+      "description": "Commercial HVAC service contracts and retrofits.",
+      "tech": [
+        "WordPress"
+      ],
+      "copyrightYear": 2020,
+      "socials": {
+        "linkedin": "https://www.linkedin.com/company/copperline-hvac-demo"
+      },
+      "emailsFound": [],
+      "phonesFound": [],
+      "hasCareersPage": true,
+      "hasEcommerce": false,
+      "hasBlog": false,
+      "hasChatWidget": false,
+      "hasAnalytics": false,
+      "fetchedAt": "2026-10-10T00:00:00.000Z",
+      "robotsBlocked": false,
+      "error": null,
+      "reachable": true
+    },
+    "oldmillprinting-demo.com": {
+      "domain": "oldmillprinting-demo.com",
+      "https": false,
+      "finalUrl": "http://oldmillprinting-demo.com/",
+      "title": "Old Mill Printing",
+      "description": "Commercial printing and signage in Lancaster County.",
+      "tech": [],
+      "copyrightYear": 2011,
+      "socials": {},
+      "emailsFound": [],
+      "phonesFound": [
+        "(717) 555-0164"
+      ],
+      "hasCareersPage": false,
+      "hasEcommerce": false,
+      "hasBlog": false,
+      "hasChatWidget": false,
+      "hasAnalytics": false,
+      "fetchedAt": "2026-10-10T00:00:00.000Z",
+      "robotsBlocked": false,
+      "error": null,
+      "reachable": true
+    }
+  },
+  "emails": {
+    "tom@ridgewayhvac-demo.com": {
+      "status": "valid",
+      "notes": [
+        "Company address with a working mail server"
+      ],
+      "hasMx": true
+    },
+    "lpark@cobaltprecision-demo.com": {
+      "status": "valid",
+      "notes": [
+        "Company address with a working mail server"
+      ],
+      "hasMx": true
+    },
+    "marcus.bell@harborpointlogistics-demo.com": {
+      "status": "valid",
+      "notes": [
+        "Company address with a working mail server"
+      ],
+      "hasMx": true
+    },
+    "ana@harborpointlogistics-demo.com": {
+      "status": "valid",
+      "notes": [
+        "Company address with a working mail server"
+      ],
+      "hasMx": true
+    },
+    "info@greenfieldlandscape-demo.com": {
+      "status": "risky",
+      "notes": [
+        "Shared inbox (info@), may not reach a decision maker"
+      ],
+      "hasMx": true
+    },
+    "dr.shah@summitdental-demo.com": {
+      "status": "valid",
+      "notes": [
+        "Company address with a working mail server"
+      ],
+      "hasMx": true
+    },
+    "greghollis.northline@gmail.com": {
+      "status": "risky",
+      "notes": [
+        "Personal mailbox, not a company address"
+      ],
+      "hasMx": true
+    },
+    "karen@brightpathcpa-demo.com": {
+      "status": "valid",
+      "notes": [
+        "Company address with a working mail server"
+      ],
+      "hasMx": true
+    },
+    "rmoreno@ironcladbuilds-demo.com": {
+      "status": "valid",
+      "notes": [
+        "Company address with a working mail server"
+      ],
+      "hasMx": true
+    },
+    "chloe@velocitycloud-demo.io": {
+      "status": "valid",
+      "notes": [
+        "Company address with a working mail server"
+      ],
+      "hasMx": true
+    },
+    "wprice@keystoneins-demo.com": {
+      "status": "valid",
+      "notes": [
+        "Company address with a working mail server"
+      ],
+      "hasMx": true
+    },
+    "jokafor@pioneersupply-demo.com": {
+      "status": "valid",
+      "notes": [
+        "Company address with a working mail server"
+      ],
+      "hasMx": true
+    },
+    "ben@lakesideauto-demo": {
+      "status": "invalid",
+      "notes": [
+        "Not a valid email address"
+      ],
+      "hasMx": null
+    },
+    "sofia@maplestreetbakery-demo.com": {
+      "status": "invalid",
+      "notes": [
+        "Domain has no mail server (no MX record)"
+      ],
+      "hasMx": false
+    },
+    "dyoung@atlasfleet-demo.com": {
+      "status": "valid",
+      "notes": [
+        "Company address with a working mail server"
+      ],
+      "hasMx": true
+    },
+    "paul@crescentelectric-demo.com": {
+      "status": "valid",
+      "notes": [
+        "Company address with a working mail server"
+      ],
+      "hasMx": true
+    },
+    "office@evergreendentalstudio-demo.com": {
+      "status": "risky",
+      "notes": [
+        "Shared inbox (office@), may not reach a decision maker"
+      ],
+      "hasMx": true
+    },
+    "fdelgado@tridentmetal-demo.com": {
+      "status": "valid",
+      "notes": [
+        "Company address with a working mail server"
+      ],
+      "hasMx": true
+    },
+    "lisa@bluewaterpools-demo.com": {
+      "status": "valid",
+      "notes": [
+        "Company address with a working mail server"
+      ],
+      "hasMx": true
+    },
+    "": {
+      "status": "missing",
+      "notes": [
+        "No email on file"
+      ],
+      "hasMx": null
+    },
+    "nate@copperlinehvac-demo.com": {
+      "status": "valid",
+      "notes": [
+        "Company address with a working mail server"
+      ],
+      "hasMx": true
+    },
+    "gary@oldmillprinting-demo.com": {
+      "status": "valid",
+      "notes": [
+        "Company address with a working mail server"
+      ],
+      "hasMx": true
+    }
+  }
+}

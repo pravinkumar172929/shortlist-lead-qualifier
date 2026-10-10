@@ -1,0 +1,29 @@
+{
+  "name": "shortlist",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Turn a scraped lead list into this week's call list: dedupe, verify, enrich, score and export.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "test": "tsx --test tests/*.test.ts",
+    "demo:fixture": "tsx scripts/build-demo-fixture.ts"
+  },
+  "dependencies": {
+    "next": "^15.5.7",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  },
+  "engines": {
+    "node": ">=18.18"
+  }
+}
